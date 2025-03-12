@@ -1,0 +1,11 @@
+langchain 
+langchain-huggingface
+langchain-chroma
+langchain-core
+langchain-community
+torch
+datasets
+transformers
+peft
+trl
+autogen
