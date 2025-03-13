@@ -3,6 +3,7 @@ langchain-huggingface
 langchain-chroma
 langchain-core
 langchain-community
+langchain-ollama
 torch
 datasets
 transformers
