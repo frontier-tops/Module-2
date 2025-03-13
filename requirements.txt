@@ -11,6 +11,8 @@ peft
 trl
 autogen==0.8.0
 pypdf
+pydantic==2.10.6
+pydantic-core==2.27.2
 pypdf2
 faiss-cpu
 bitsandbytes
