@@ -9,3 +9,6 @@ transformers
 peft
 trl
 autogen
+pypdf
+pypdf2
+faiss-cpu
