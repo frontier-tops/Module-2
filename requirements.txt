@@ -12,3 +12,4 @@ autogen
 pypdf
 pypdf2
 faiss-cpu
+bitsandbytes
