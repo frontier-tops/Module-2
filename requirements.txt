@@ -9,8 +9,9 @@ datasets
 transformers
 peft
 trl
-autogen
+autogen==0.8.0
 pypdf
 pypdf2
 faiss-cpu
 bitsandbytes
+ag2[ollama]
